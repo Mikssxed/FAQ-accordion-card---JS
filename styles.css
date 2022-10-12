@@ -150,6 +150,7 @@ p {
     );
         padding-top: 50px;
         padding-bottom: 50px;
+        overflow-y: scroll;
     }
     main {
         width: 90%;
